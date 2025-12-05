@@ -30,9 +30,9 @@ This notebook performs:
 ## 📊 Visual Outputs Generated
 
 Included inside the notebook:
-<img src="images/top_10" width="500" />
-<img src="images/Ple_chart.png" width="500" />
-<img src="images/download.png" width="500" />
+<img src="Video_game_Analysis/images/top_10" width="500" />
+<img src="Video_game_Analysis/images/Ple_chart.png" width="500" />
+<img src="Video_game_Analysis/images/download.png" width="500" />
 
 
 
