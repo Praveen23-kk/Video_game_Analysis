@@ -35,7 +35,7 @@ This notebook performs:
 
 ## Region-Wise Sales Shares
 
-<img src="Video_game_Analysis/images/Ple_chart.png" width="500"/>
+<img src="Video_game_Analysis/images/PIe_chart.png" width="500"/>
 
 ## Heapmap For Top 23 Video Games
 
