@@ -37,7 +37,7 @@ This notebook performs:
 
 <img src="Video_game_Analysis/images/PIe_chart.png" width="500"/>
 
-## Heapmap For Top 23 Video Games
+## Heatmap For Top 23 Video Games
 
 <img src="Video_game_Analysis/images/download.png" width="500"/>
 
@@ -50,6 +50,7 @@ This notebook performs:
 Video_Game_Sales_Analysis/
 │── Video_game_sales_Analysis.ipynb # Main analysis notebook
 │── vgsales.csv # Source dataset
+│── images # Few plot images 
 └── README.md # Project documentation
 ```
 ---
