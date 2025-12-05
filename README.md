@@ -30,12 +30,9 @@ This notebook performs:
 ## 📊 Visual Outputs Generated
 
 Included inside the notebook:
-
-- Top 10 Global Game Sales Bar Chart
-- Genre-wise Game Count Visualization
-- Platform Sales Analysis
-- Regional Sales Comparison
-- Year-wise Trends and Heatmaps
+<img src="image/top_10" width="500" />
+<img src="image/Ple_chart.png" width="500" />
+<img src="image/download.png" width="500" />
 
 
 
