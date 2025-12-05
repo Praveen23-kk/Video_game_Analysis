@@ -30,9 +30,9 @@ This notebook performs:
 ## 📊 Visual Outputs Generated
 
 Included inside the notebook:
-<img src="image/top_10" width="500" />
-<img src="image/Ple_chart.png" width="500" />
-<img src="image/download.png" width="500" />
+<img src="images/top_10" width="500" />
+<img src="images/Ple_chart.png" width="500" />
+<img src="images/download.png" width="500" />
 
 
 
@@ -53,7 +53,7 @@ Video_Game_Sales_Analysis/
 ## 🗂 Dataset Information
 
 Dataset used: **vgsales.csv**
-link:https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
+
 
 | Column | Description |
 |-------|-------------|
@@ -68,7 +68,7 @@ link:https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
 | Other_Sales | Sales in other regions |
 | Global_Sales | Worldwide total sales |
 
-Data Source: Public dataset available on multiple open data sites including Kaggle.
+Data Source: https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
 
 ---
 
