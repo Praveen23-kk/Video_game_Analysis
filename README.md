@@ -102,7 +102,7 @@ pip install pandas numpy matplotlib seaborn
 
 ### RUN The Project 
 ```bash
-jupyter notebook Video_game_sales_Analysis.ipynb
+jupyter notebook Video_game_sales_EDA.ipynb
 ```
 
 
