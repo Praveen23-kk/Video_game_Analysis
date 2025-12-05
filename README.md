@@ -31,11 +31,17 @@ This notebook performs:
 
 Included inside the notebook:
 ##TOP 10 Best Selling games
+```
 <img src="Video_game_Analysis/images/top_10.png" width="500"/>
+```
 ##Region-Wise Sales Shares
+```
 <img src="Video_game_Analysis/images/Ple_chart.png" width="500"/>
+```
 ## Heapmap For Top 23 Video Games
+```
 <img src="Video_game_Analysis/images/download.png" width="500"/>
+```
 
 
 
