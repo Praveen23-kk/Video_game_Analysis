@@ -37,16 +37,17 @@ Included inside the notebook:
 - Regional Sales Comparison
 - Year-wise Trends and Heatmaps
 
-(You can export/insert snapshots later to enhance this README)
+
 
 ---
 
 ## 📁 Folder Structure
+```bash
 Video_Game_Sales_Analysis/
 │── Video_game_sales_Analysis.ipynb # Main analysis notebook
 │── vgsales.csv # Source dataset
 └── README.md # Project documentation
-
+```
 ---
 
 
@@ -95,7 +96,9 @@ pip install pandas numpy matplotlib seaborn
 ```
 
 ### RUN The Project 
+```bash
 jupyter notebook Video_game_sales_Analysis.ipynb
+```
 
 
 
