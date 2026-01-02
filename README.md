@@ -76,7 +76,7 @@ Dataset used: **vgsales.csv**
 | Other_Sales | Sales in other regions |
 | Global_Sales | Worldwide total sales |
 
-Data Source: https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
+Data Source link: https://www.kaggle.com/datasets/anandshaw2001/video-game-sales
 
 ---
 
